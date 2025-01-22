@@ -19,7 +19,7 @@ Language: English
 
 Character set encoding: UTF-8
 
-Produced by: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading Team
+Produced by: Charlene Taylor and the Online Distributed Proofreading Team
              at https://www.pgdp.net (This file was produced from images
              generously made available by The Internet Archive/American
              Libraries.)
